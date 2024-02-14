@@ -1,0 +1,14 @@
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\bin\Debug\net6.0\FootaballLeague.exe
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\bin\Debug\net6.0\FootaballLeague.deps.json
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\bin\Debug\net6.0\FootaballLeague.runtimeconfig.json
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\bin\Debug\net6.0\FootaballLeague.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\bin\Debug\net6.0\FootaballLeague.pdb
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\FootaballLeague.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\FootaballLeague.AssemblyInfoInputs.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\FootaballLeague.AssemblyInfo.cs
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\FootaballLeague.csproj.CoreCompileInputs.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\FootaballLeague.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\refint\FootaballLeague.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\FootaballLeague.pdb
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\FootaballLeague.genruntimeconfig.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Football League\FootaballLeague\FootaballLeague\obj\Debug\net6.0\ref\FootaballLeague.dll
